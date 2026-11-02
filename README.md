@@ -1,14 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner Animasi -->
-<p align="center">
-  <img src="https://assets.website-files.com/5c9b68a7a8d56b001a1c7c64/5ca3321584c042971ea91784_fire-opt.gif" width="100%" height="200" style="object-fit: cover; border-radius: 12px;"/>
-</p>
-<h1 align="center">🔥 Hi, I'm Ilham Wahyu 👋</h1>
-<p align="center">
-  <b>Informatics Engineering Student & Full Stack Web Developer</b><br/>
-  <i>Crafting high-performance web applications with precision and passion.</i>
-</p>
+ !-- Header Banner Animasi -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Ilham%20Wahyu%20👋&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
+  <!-- Typing Effect -->
+  <a href="https://ilhamwahyu.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;Information+Systems+Graduate;Data+Science+Learner" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     Lulusan Sistem Informasi yang berfokus pada <b>Web Development (PHP, Laravel)</b> dan <b>Data Science</b>.<br>
