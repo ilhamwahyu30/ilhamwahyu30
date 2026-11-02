@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools yang Dikuasai
+### 🛠️ Tech Stack & Tools yang Digunakan
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-### 📬 Hubungi Saya
+### 📬 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ilhamwahyuu" target="_blank">
