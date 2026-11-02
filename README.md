@@ -69,17 +69,17 @@
 </a>
 </div>
 
-<!-- ================= GALAGA SPACE INVADERS GAME ================= -->
+<!-- ================= TETRIS MATRIX GAME ================= -->
 <div align="center">
-  <h2>Space Invaders: Galaga Combat Activity</h2>
+  <h2>🧱 Tetris Cyberpunk Contribution Matrix</h2>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/galaga-contribution-graph.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/galaga-contribution-graph.svg">
-    <img alt="Galaga Space Invaders Game" src="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/galaga-contribution-graph.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/tetris-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/tetris-contribution-graph.svg">
+    <img alt="Tetris Contribution Graph" src="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/tetris-contribution-graph.svg" width="100%" />
   </picture>
 </div>
-<!-- ============================================================== -->
+<!-- ====================================================== -->
 
 <br>
 
