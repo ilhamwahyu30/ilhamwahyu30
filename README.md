@@ -72,7 +72,7 @@
 
 <!-- ================= SNAKE CONTRIBUTION ANIMATION ================= -->
 <div align="center">
-  <h2>🐍 Snake Eating Contributions</h2>
+  <h2>🐍 KING COBRA </h2>
   <img src="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
 </div>
 <!-- ================================================================ -->
