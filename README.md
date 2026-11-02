@@ -9,7 +9,7 @@
   </a>
 
   <p align="center">
-    Lulusan Sistem Informasi yang berfokus pada <b>Web Development (PHP, Laravel)</b> dan <b>Data Science</b>.<br>
+    Lulusan Sistem Informasi yang berfokus pada <b>Web Development (PHP, Laravel)</b> dan <b>Data Science (Machine Learning)</b>.<br>
     Senang membangun aplikasi web yang fungsional, bersih, responsif, dan memberikan dampak nyata.
   </p>
 
