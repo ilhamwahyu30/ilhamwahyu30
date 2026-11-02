@@ -21,9 +21,8 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools yang Digunakan
-
 <div align="center">
+<h2>🛠️ Tech Stack & Tools yang Digunakan</h2>>
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -54,9 +53,10 @@
 
 ---
 
-### 📬 Let's Connect
+### 
 
 <div align="center">
+ <h2>📬 Let's Connect</h2>
   <a href="https://www.linkedin.com/in/ilhamwahyuu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
