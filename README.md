@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-<h2> </> Tech Stack & Tools yang Digunakan</h2>>
+<h2> </> Tech Stack & Tools yang Digunakan</h2>
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -52,8 +52,6 @@
 </div>
 
 ---
-
-### 
 
 <div align="center">
  <h2>Let's Connect</h2>
