@@ -70,6 +70,11 @@
 </a>
 </div>
 
+<!-- Tampilan di README.md -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
 <!-- ================= SNAKE CONTRIBUTION ANIMATION ================= -->
 <div align="center">
   <h2>🐍 KING COBRA </h2>
