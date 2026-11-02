@@ -2,13 +2,12 @@
 
   <!-- Header Banner Animasi -->
 <p align="center">
-  <!-- Gelombang Api 3D Bergelombang -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:080101,25:520000,50:bd1e00,75:f76502,100:ffc043&height=200&section=header&text=ILHAM%20WAHYU&fontSize=42&fontAlignY=36&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-  <!-- Teks Mengetik Api Neon -->
-  <a href="https://github.com/ilhamwahyu30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&height=50&lines=🔥+Turning+Coffee+into+Scalable+Code;🚀+Fullstack+Developer;⚡+Passionate+about+Modern+Web+Tech" alt="Typing SVG" />
-  </a>
+  <img src="https://assets.website-files.com/5c9b68a7a8d56b001a1c7c64/5ca3321584c042971ea91784_fire-opt.gif" width="100%" height="200" style="object-fit: cover; border-radius: 12px;"/>
+</p>
+<h1 align="center">🔥 Hi, I'm Ilham Wahyu 👋</h1>
+<p align="center">
+  <b>Informatics Engineering Student & Full Stack Web Developer</b><br/>
+  <i>Crafting high-performance web applications with precision and passion.</i>
 </p>
 
   <p align="center">
