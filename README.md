@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Header Banner Animasi -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Ilham%20Wahyu%20👋&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0:0f0000,20:4a0000,45:a81400,70:e8590c,90:ff9900,100:ffea75&height=240&section=header&text=🔥%20ILHAM%20WAHYU%20🔥&fontSize=42&fontAlignY=44&fontColor=ffffff&desc=⚡%20Full%20Stack%20Developer%20%7C%20Creative%20Problem%20Solver&descAlignY=68&descSize=18&descAlign=50&animation=twinkling" width="100%" />
+</p>
 
   <!-- Typing Effect -->
   <a href="https://ilhamwahyu.vercel.app">
