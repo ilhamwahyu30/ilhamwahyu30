@@ -1,6 +1,6 @@
 <div align="center">
 
- !-- Header Banner Animasi -->
+ <!-- Header Banner Animasi -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Ilham%20Wahyu%20👋&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
   <!-- Typing Effect -->
   <a href="https://ilhamwahyu.vercel.app">
