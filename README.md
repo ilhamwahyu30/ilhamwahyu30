@@ -2,13 +2,14 @@
 
   <!-- Header Banner Animasi -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0:0f0000,20:4a0000,45:a81400,70:e8590c,90:ff9900,100:ffea75&height=240&section=header&text=🔥%20ILHAM%20WAHYU%20🔥&fontSize=42&fontAlignY=44&fontColor=ffffff&desc=⚡%20Full%20Stack%20Developer%20%7C%20Creative%20Problem%20Solver&descAlignY=68&descSize=18&descAlign=50&animation=twinkling" width="100%" />
-</p>
+  <!-- Gelombang Api 3D Bergelombang -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:080101,25:520000,50:bd1e00,75:f76502,100:ffc043&height=200&section=header&text=ILHAM%20WAHYU&fontSize=42&fontAlignY=36&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <!-- Typing Effect -->
-  <a href="https://ilhamwahyu.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;Information+Systems+Graduate;Data+Science+|+Machine+Leraning" alt="Typing SVG" />
+  <!-- Teks Mengetik Api Neon -->
+  <a href="https://github.com/ilhamwahyu30">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&height=50&lines=🔥+Turning+Coffee+into+Scalable+Code;🚀+Fullstack+Developer;⚡+Passionate+about+Modern+Web+Tech" alt="Typing SVG" />
   </a>
+</p>
 
   <p align="center">
     Lulusan Sistem Informasi yang berfokus pada <b>Web Development (PHP, Laravel)</b> dan <b>Data Science</b>.<br>
