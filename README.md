@@ -54,19 +54,10 @@
 
 ---
 
-### 📊 Statistik GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhamwahyu30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ilham's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamwahyu30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="165" />
-</div>
-
----
-
 ### 📬 Hubungi Saya
 
 <div align="center">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/ilhamwahyuu/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ilhamwhyu35@gmail.com">
@@ -75,6 +66,9 @@
   <a href="https://ilhamwahyu.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio_Website-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/iilhamwhyu__/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </div>
 
 <br>
