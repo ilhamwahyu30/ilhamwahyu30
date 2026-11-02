@@ -70,10 +70,16 @@
 </a>
 </div>
 
-<!-- Tampilan di README.md -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
-</div>
+<!-- ================= TERMINAL CYBERPUNK BIO ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=%24+whoami+%3A+Ilham+Wahyu+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+role+%3A+Full+Stack+Web+Developer+%F0%9F%9A%80;%24+status+%3A+Ready+to+Craft+Epic+Websites+%E2%9A%A1" alt="Terminal Typing" />
+</p>
+
+<!-- ================= GITHUB PROFILE TROPHIES ================= -->
+<h2 align="center">🏆 GitHub Achievements & Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ilhamwahyu30&theme=dracula&no-frame=true&column=6&margin-w=15" alt="Ilham's Trophies" />
+</p>
 
 <!-- ================= SNAKE CONTRIBUTION ANIMATION ================= -->
 <div align="center">
