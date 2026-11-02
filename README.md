@@ -1,7 +1,7 @@
 <div align="center">
 
  <!-- Header Banner Animasi -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Ilham%20Wahyu%20👋&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Ilham%20Wahyu%20&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
   
   <!-- Typing Effect -->
   <a href="https://ilhamwahyu.vercel.app">
@@ -56,7 +56,7 @@
 ### 
 
 <div align="center">
- <h2>📬 Let's Connect</h2>
+ <h2>Let's Connect</h2>
   <a href="https://www.linkedin.com/in/ilhamwahyuu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
