@@ -71,12 +71,17 @@
 </a>
 </div>
 
-<!-- ================= SNAKE CONTRIBUTION ANIMATION ================= -->
+<!-- ================= GALAGA SPACE INVADERS GAME ================= -->
 <div align="center">
-  <h2>🐍 KING COBRA </h2>
-  <img src="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+  <h2>🚀 Space Invaders: Galaga Combat Activity</h2>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/galaga-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/galaga-contribution-graph.svg">
+    <img alt="Galaga Space Invaders Game" src="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/galaga-contribution-graph.svg" width="100%" />
+  </picture>
 </div>
-<!-- ================================================================ -->
+<!-- ============================================================== -->
 
 <br>
 
