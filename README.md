@@ -73,7 +73,7 @@
 
 <!-- ================= GALAGA SPACE INVADERS GAME ================= -->
 <div align="center">
-  <h2>🚀 Space Invaders: Galaga Combat Activity</h2>
+  <h2>Space Invaders: Galaga Combat Activity</h2>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/galaga-contribution-graph.svg">
