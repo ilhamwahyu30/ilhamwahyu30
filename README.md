@@ -2,10 +2,22 @@
 
  <!-- Header Banner Animasi -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Ilham%20Wahyu%20👋&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
+  
   <!-- Typing Effect -->
   <a href="https://ilhamwahyu.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;Information+Systems+Graduate;Data+Science+|+Machine+Learning" alt="Typing SVG" />
   </a>
+
+  <!-- ================= TERMINAL CYBERPUNK BIO ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=%24+whoami+%3A+Ilham+Wahyu+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+role+%3A+Full+Stack+Web+Developer+%F0%9F%9A%80;%24+status+%3A+Ready+to+Craft+Epic+Websites+%E2%9A%A1" alt="Terminal Typing" />
+</p>
+
+<!-- ================= GITHUB PROFILE TROPHIES ================= -->
+<h2 align="center">🏆 GitHub Achievements & Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ilhamwahyu30&theme=dracula&no-frame=true&column=6&margin-w=15" alt="Ilham's Trophies" />
+</p>
 
   <p align="center">
     Lulusan Sistem Informasi yang berfokus pada <b>Web Development (PHP, Laravel)</b> dan <b>Data Science</b>.<br>
@@ -69,17 +81,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
-
-<!-- ================= TERMINAL CYBERPUNK BIO ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=%24+whoami+%3A+Ilham+Wahyu+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+role+%3A+Full+Stack+Web+Developer+%F0%9F%9A%80;%24+status+%3A+Ready+to+Craft+Epic+Websites+%E2%9A%A1" alt="Terminal Typing" />
-</p>
-
-<!-- ================= GITHUB PROFILE TROPHIES ================= -->
-<h2 align="center">🏆 GitHub Achievements & Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ilhamwahyu30&theme=dracula&no-frame=true&column=6&margin-w=15" alt="Ilham's Trophies" />
-</p>
 
 <!-- ================= SNAKE CONTRIBUTION ANIMATION ================= -->
 <div align="center">
