@@ -70,28 +70,12 @@
 </a>
 </div>
 
-<!-- ================= SECTION CONTRIBUTION & STATS ================= -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-  🔥 GitHub Contribution & Activity Stats
-</h2>
-
-<!-- 1. STREAK STATS DENGAN INDIKATOR API MEMBARA -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamwahyu30&theme=dark&background=0D1117&border=FF4500&stroke=FF4500&ring=FF4500&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFA500&sideLabels=FFA500&dates=8B949E" alt="Ilham's Streak Stats" />
-</p>
-
-<!-- 2. OVERALL STATS & TOP LANGUAGES (SEJAJAR RAPI) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhamwahyu30&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF5722&icon_color=FFA500&text_color=FFFFFF&border_color=FF4500&border_radius=10" height="175" alt="Ilham's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamwahyu30&layout=compact&theme=radical&bg_color=0D1117&title_color=FF5722&text_color=FFFFFF&border_color=FF4500&border_radius=10" height="175" alt="Ilham's Top Languages" />
-</p>
-
-<!-- 3. GRAFIK GELOMBANG AKTIVITAS DINAMIS (WAVE ACTIVITY GRAPH) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamwahyu30&bg_color=0D1117&color=FF4500&line=FF7300&point=FFD700&area=true&hide_border=false&border_color=FF4500&radius=10" width="95%" alt="Ilham's Activity Graph" />
-</p>
+<!-- ================= SNAKE CONTRIBUTION ANIMATION ================= -->
+<div align="center">
+  <h2>🐍 Snake Eating Contributions</h2>
+  <img src="https://raw.githubusercontent.com/ilhamwahyu30/ilhamwahyu30/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+</div>
+<!-- ================================================================ -->
 
 <br>
 
