@@ -5,7 +5,7 @@
 
   <!-- Typing Effect -->
   <a href="https://ilhamwahyu.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;Information+Systems+Graduate;Data+Science+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;Information+Systems+Graduate;Data+Science+Machine+Leraning" alt="Typing SVG" />
   </a>
 
   <p align="center">
