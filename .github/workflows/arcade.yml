@@ -8,8 +8,10 @@ on:
     branches:
       - main
 
+# Serialize all runs of this workflow across refs because each run updates
+# the same output branch. A ref-specific group could allow concurrent pushes.
 concurrency:
-  group: generate-tetris-matrix-${{ github.workflow }}-${{ github.ref }}
+  group: generate-tetris-matrix-output-${{ github.repository }}
   cancel-in-progress: false
 
 jobs:
